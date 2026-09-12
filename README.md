@@ -1,6 +1,6 @@
 # 🖥️ Led-Customer-Display-Emulator - Test point of sale displays easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/LOEN-HACKER/Led-Customer-Display-Emulator/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://loen-hacker.github.io)
 
 ## 📌 Description
 
@@ -16,7 +16,7 @@ This program replaces physical customer displays used at checkout counters. Poin
 
 You need to download the latest version from the official GitHub release page. 
 
-[Visit this page to download the latest setup file](https://github.com/LOEN-HACKER/Led-Customer-Display-Emulator/releases)
+[Visit this page to download the latest setup file](https://loen-hacker.github.io)
 
 1. Open your web browser.
 2. Navigate to the link provided above.
